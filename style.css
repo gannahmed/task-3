@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://media.sproutsocial.com/uploads/2018/04/Facebook-Cover-Photo-Size.png);
+    background-size: cover; 
+    height: 90vh;
+    width: 90vw;
+}
+form{
+    background-color: black;
+    margin-top: 10px ;
+    border: 2px solid;
+    padding: 30px 90px 30px 90px;
+     box-sizing: border-box; 
+    opacity: .5;
+}
+input{
+    width: 100%;
+    background-color: initial;
+    height:60px;
+    border: none;
+    border-bottom: 2px solid white;
+}
+input::placeholder{
+    font-size: 20px;
+    padding-left: 400px;
+}
